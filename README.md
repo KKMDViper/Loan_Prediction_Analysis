@@ -21,7 +21,6 @@ Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
-**Download link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
 
 # Libraries
 
